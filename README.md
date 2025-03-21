@@ -1,5 +1,5 @@
-# 🚀 MC250517_PAL404_G08L_Ciclo01_2025
-¡Bienvenido a mi primer repositorio en GitHub! 🎉  
+# MC250517_PAL404_G08L_Ciclo01_2025
+¡Bienvenido a mi primer repositorio en GitHub!   
 
 ## 📖 Acerca de este repositorio
 Este repositorio ha sido creado como parte de mi formación en **Ingeniería en Computación**. Aquí documentaré mis avances en programación, resolviendo desafíos y desarrollando proyectos a lo largo del ciclo académico.  
@@ -10,6 +10,5 @@ Es la primera vez que utilizo GitHub para gestionar mi código y versiones de mi
 2. Mejorar mis habilidades en programación con C#.  
 3. Documentar mi progreso en el desarrollo de software.  
 4. Construir un portafolio de proyectos que refleje mis conocimientos.  
-5. Hola mundo
 
 Gracias por visitar mi repositorio. Este es un espacio de aprendizaje y crecimiento, así que cualquier sugerencia o retroalimentación será bienvenida.  
